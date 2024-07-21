@@ -10,7 +10,7 @@ const connectDb = require("./utils/db");
 const errorMiddleware = require("./middlewares/error-middleware");
 
 // Middleware
-// bhau
+
 // Handling cors policy issue
 const corsOptions = {
   origin: "http://localhost:5173",
